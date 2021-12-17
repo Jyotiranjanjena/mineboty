@@ -1,7 +1,10 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
- "auto-night-skip": "false",
- "loginmsg": "Your_Login_message_here"
+ "ip": "SilenceSMPop.aternos.me:44241",
+ "port": "",
+ "name": "Silence_killer",
+ "auto-night-skip": "false", 
+ "token": "ODE4OTA0NjIzNTczNjMxMDk3.YXnL3A.xuDtrkxd1dK298_mTenXp_iMM9M",
+ "channelid": "900734801831682148",
+ "loginmsg": "YOOOOOO"
 }
+ 
